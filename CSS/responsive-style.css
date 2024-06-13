@@ -1,22 +1,22 @@
-@media (max-width: 991px) {
+@media (max-width: 990px) {
   /*custom classes  */
   .text-content{
       width:100%;
   }
   /* navbar brand */
 .navigation-wrap .navbar-brand img{
-      height:3.8125rem;
+      height:3.9rem;
 }
 .navigation-wrap{
       text-align: center;
       background-color: var(--white-color);
 }
 .navigation-wrap .nav-link{
-      line-height: 1.875rem;
+      line-height: 1.9rem;
 }
 /* Banner Design */
 .top-banner{
-      padding:9.375rem 0 9.375rem;
+      padding:9.4rem 0 9.4rem;
 }
 
 /* carousel design */
@@ -33,11 +33,11 @@ h1{
 }
 h2{
       font-size:2rem;
-      line-height: 2.0625rem;
+      line-height: 2.07rem;
 }
 /* top banner */
 .top-banner{
-      padding:10.875rem 0 9.375rem;
+      padding:10.9rem 0 9.4rem;
 }
 /* story section */
 .story-section{
@@ -46,7 +46,7 @@ h2{
 }
 /* carousel design */
 .testimonial-section .carousel-item{
-      padding:11rem 3.125rem;
+      padding:11rem 3.2rem;
 }
 
 /* newslettar */
@@ -67,6 +67,6 @@ h2{
 @media (max-width:330px) {
   /* carousel design */
   .testimonial-section .carousel-item{
-      padding:13rem 3.125rem;
+      padding:13rem 3rem;
   } 
 }
